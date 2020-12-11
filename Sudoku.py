@@ -29,3 +29,13 @@ grid =[
         [0, 4, 9, 2, 0, 6, 0, 0, 7] 
 
 ]
+ # Loading fonts for future use
+ font1= pygame.font.SysFont("comicsans", 40)
+ font2 = pygame.font.SysFont("comicsans", 20)
+
+ def get_cord(pos):
+     global x
+     x = pos[0]//dif
+     global
+     y= pos[1]//dif
+     
