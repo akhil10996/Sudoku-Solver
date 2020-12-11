@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #importing libraries
 import pygame
 
