@@ -1,2 +1,2 @@
 # Sudoku-Solver
-A sudoku solver based on various algorithms.
+A sudoku solver based on Backtracking algorithm. 
